@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="Assets\Sources\BallControl.cs" />
     <Compile Include="Assets\Sources\CameraControl.cs" />
+    <Compile Include="Assets\Sources\CoinsToBeCollected.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/mac/UnityProjects/Roll a Ball/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
